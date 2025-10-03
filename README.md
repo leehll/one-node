@@ -15,6 +15,6 @@ Hysteria	UDP	自签证书
 
 一键安装脚本
 curl -s https://raw.githubusercontent.com/vevc/one-node/refs/heads/main/lunes-host/install.sh |
-env DOMAIN=node70.lunes.host PORT=3142 UUID=1ee897da-0887-4f7b-9dae-735a7298224b HY2_PASSWORD='8vHxP5hk6e79Tg60rT6i' bash
+env DOMAIN=容器地址 PORT=你容器端口 UUID=1ee897da-0887-4f7b-9dae-735a7298224b HY2_PASSWORD='自己设置密码' bash
 
 在线密码生成器：https://1password.com/zh-cn/password-generator
